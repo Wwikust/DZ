@@ -77,7 +77,22 @@ class ViewController: UIViewController {
         let string = "\(n1) + \(n2) + \(n3) + \(n4) + \(n5) = \(sum)"
     
         print("string = \(string)")
-       
+        print("")
+        
+//        print("N6")
+//        let const1 = "1"
+//        let const2 = "2"
+//        let const3 = "3"
+//        let const4 = "ab4c"
+//        let const5 = "d5fg"
+//        let sum1 = (Int(const1) ?? 0) + (Int(const2) ?? 0)
+//        let sum2 = (Int(const3) ?? 0) + (Int(const4) ?? 0) + (Int(const5) ?? 0)
+//        let sum3 = (sum1 + sum2)
+//
+//        let sum4 = "\(const1) + \(const2) + \(const3) + \(const4) + \(const5) = \(sum3)"
+//        print(sum4)
+
+        
     }
     
 }
